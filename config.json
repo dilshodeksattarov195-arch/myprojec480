@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercerify",
+        "uuid": 3319200,
+        "checksum": "kov7f"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
